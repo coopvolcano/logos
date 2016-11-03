@@ -1,3 +1,5 @@
 *.png
 .DS_Store
 **/Icon?
+**/desktop.ini
+**/*~
